@@ -1,0 +1,6 @@
+id=voicepath-killer-inator-3000
+name=Voice path killer inator 3000
+version=1970.01.01
+versionCode=0
+author=ApertureUA
+description=Set se.voice.path.for.pcm.voip=false as an attempt to fix quality in VoIP-alike apps such as Discrod
