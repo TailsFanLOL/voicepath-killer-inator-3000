@@ -2,7 +2,9 @@
 
 hd discord call para android es real legit makes you sound like on iphone just add ios launcher by petya1977 on gogel play store
 
-On a more serious note, this just toggles the prop `use.voice.path.for.pcm.voip` to off. It might or might not pair well with @reiryuki 's mic fix module, I don't know, haven't tested.  
+On a more serious note, this just toggles the prop `use.voice.path.for.pcm.voip` to off.  
+Please note that I have not found evidence of it existing beyond Android 4.4.4. Well, it's AOSP, the source is shit to navigate, can't tell for sure.  
+It might or might not pair well with @reiryuki 's mic fix module, I don't know, haven't tested.  
 Please, **DO NOT** install @PS2ClassicsVault 's "Audio-HD-Enhancer", regardless of if you are going to use *this* module or not.
 
 `update-binary` is licensed under GPLv3 (see `LICENSE.update-binary.md`). I hereby publicly license everything in this repository except the before mentioned file under the terms of WTFPL 2.0, as released by Sam Hocevar.  
